@@ -2,7 +2,9 @@
 *.idea
 .idea
 cai-generator.iml
-
+cai-generator-basic.iml
+acm-template.iml
+out
 
 ### Maven template
 target/
