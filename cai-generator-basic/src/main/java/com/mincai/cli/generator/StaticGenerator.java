@@ -1,4 +1,4 @@
-package com.mincai.generator;
+package com.mincai.cli.generator;
 
 import cn.hutool.core.io.FileUtil;
 import cn.hutool.core.util.ArrayUtil;

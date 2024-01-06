@@ -1,4 +1,4 @@
-package com.mincai.model;
+package com.mincai.cli.model;
 
 import lombok.Data;
 

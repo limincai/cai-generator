@@ -1,7 +1,7 @@
-package com.mincai.generator;
+package com.mincai.cli.generator;
 
 
-import com.mincai.model.MainTemplateConfig;
+import com.mincai.cli.model.MainTemplateConfig;
 import freemarker.template.Configuration;
 import freemarker.template.Template;
 import freemarker.template.TemplateException;
